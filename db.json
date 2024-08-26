@@ -44,36 +44,6 @@
       "id": "ITA",
       "name": "Italy",
       "description": "Italy has a rich cultural heritage, being the birthplace of the Renaissance. It is renowned for its contributions to art, architecture, and cuisine. Italy’s economy is driven by tourism, fashion, and the automotive industry, with brands like Ferrari and Gucci."
-    },
-    {
-      "id": "GER",
-      "name": "Germany",
-      "description": "Germany is the largest economy in Europe and a leader in engineering, automotive, and chemical industries. It is known for its high-quality manufacturing and as the birthplace of significant cultural and intellectual movements, including the Reformation and classical music."
-    },
-    {
-      "id": "NZL",
-      "name": "New Zealand",
-      "description": "New Zealand is known for its environmental policies and as a filming location for movies like 'The Lord of the Rings.' The economy is largely based on agriculture, particularly dairy and sheep farming, as well as tourism and film production."
-    },
-    {
-      "id": "CAN",
-      "name": "Canada",
-      "description": "Canada is the second-largest country by land area and is known for its natural resources, including oil, timber, and minerals. It has a diverse population and a strong healthcare and education system. The country is also known for its peacekeeping efforts and multicultural society."
-    },
-    {
-      "id": "UZB",
-      "name": "Uzbekistan",
-      "description": "Uzbekistan is rich in history, being a key part of the Silk Road. The country has a strong agricultural sector, particularly in cotton production. It is also known for its historic cities like Samarkand and Bukhara, which are UNESCO World Heritage sites."
-    },
-    {
-      "id": "HUN",
-      "name": "Hungary",
-      "description": "Hungary is known for its thermal spas and historical architecture, including the Buda Castle and the Parliament Building in Budapest. The country has a strong tradition in music and the arts, and its economy is driven by manufacturing and agriculture."
-    },
-    {
-      "id": "ESP",
-      "name": "Spain",
-      "description": "Spain is a culturally diverse country with strong regional identities, such as Catalonia and Andalusia. It has a rich history of art, literature, and architecture, with contributions from figures like Pablo Picasso and Miguel de Cervantes. The Spanish economy is driven by tourism, agriculture, and manufacturing."
     }
 
   ]
