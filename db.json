@@ -1,0 +1,254 @@
+{
+  "country": [
+    {
+      "id": "USA",
+      "name": "United States of America",
+      "description": "A federal republic consisting of 50 states, known for its global influence in politics, economics, and culture. Major industries include technology, finance, and entertainment. It is home to world-renowned institutions like Harvard University and Silicon Valley."
+    },
+    {
+      "id": "CHN",
+      "name": "China",
+      "description": "A one-party state ruled by the Communist Party, China has the world's second-largest economy. It is known for its manufacturing prowess and has significant influence in global trade. The country is also home to ancient cultural sites like the Great Wall and the Forbidden City."
+    },
+    {
+      "id": "JPN",
+      "name": "Japan",
+      "description": "Japan is an island nation in East Asia known for its blend of traditional and modern culture. It is a global leader in technology, particularly in robotics and electronics. Japan is also famous for its cuisine, such as sushi and ramen, and its unique cultural practices, like tea ceremonies and sumo wrestling."
+    },
+    {
+      "id": "AUS",
+      "name": "Australia",
+      "description": "Known for its diverse ecosystems, from the Great Barrier Reef to the Outback, Australia is also a major exporter of minerals and agricultural products. The country has a strong economy, with key sectors including mining, finance, and tourism."
+    },
+    {
+      "id": "FRA",
+      "name": "France",
+      "description": "France is a key player in the European Union and a permanent member of the United Nations Security Council. It is known for its luxury goods, fashion industry, and as the world’s most visited country due to its landmarks like the Eiffel Tower and the Louvre Museum."
+    },
+    {
+      "id": "NED",
+      "name": "Netherlands",
+      "description": "The Netherlands is a highly developed country known for its liberal policies, innovative water management, and as a major hub for international trade. The Dutch economy is driven by high-tech industries, agriculture, and services."
+    },
+    {
+      "id": "GBR",
+      "name": "United Kingdom",
+      "description": "The UK has a constitutional monarchy and a parliamentary democracy. It played a significant role in world history as the center of the British Empire. The UK is a global financial center, with London being one of the leading cities for finance and culture."
+    },
+    {
+      "id": "KOR",
+      "name": "South Korea",
+      "description": "South Korea is known for its rapid economic development, often referred to as the 'Miracle on the Han River.' It is a global leader in electronics, automotive, and entertainment industries, particularly known for the global popularity of K-pop and Korean dramas."
+    },
+    {
+      "id": "ITA",
+      "name": "Italy",
+      "description": "Italy has a rich cultural heritage, being the birthplace of the Renaissance. It is renowned for its contributions to art, architecture, and cuisine. Italy’s economy is driven by tourism, fashion, and the automotive industry, with brands like Ferrari and Gucci."
+    },
+    {
+      "id": "GER",
+      "name": "Germany",
+      "description": "Germany is the largest economy in Europe and a leader in engineering, automotive, and chemical industries. It is known for its high-quality manufacturing and as the birthplace of significant cultural and intellectual movements, including the Reformation and classical music."
+    },
+    {
+      "id": "NZL",
+      "name": "New Zealand",
+      "description": "New Zealand is known for its environmental policies and as a filming location for movies like 'The Lord of the Rings.' The economy is largely based on agriculture, particularly dairy and sheep farming, as well as tourism and film production."
+    },
+    {
+      "id": "CAN",
+      "name": "Canada",
+      "description": "Canada is the second-largest country by land area and is known for its natural resources, including oil, timber, and minerals. It has a diverse population and a strong healthcare and education system. The country is also known for its peacekeeping efforts and multicultural society."
+    },
+    {
+      "id": "UZB",
+      "name": "Uzbekistan",
+      "description": "Uzbekistan is rich in history, being a key part of the Silk Road. The country has a strong agricultural sector, particularly in cotton production. It is also known for its historic cities like Samarkand and Bukhara, which are UNESCO World Heritage sites."
+    },
+    {
+      "id": "HUN",
+      "name": "Hungary",
+      "description": "Hungary is known for its thermal spas and historical architecture, including the Buda Castle and the Parliament Building in Budapest. The country has a strong tradition in music and the arts, and its economy is driven by manufacturing and agriculture."
+    },
+    {
+      "id": "ESP",
+      "name": "Spain",
+      "description": "Spain is a culturally diverse country with strong regional identities, such as Catalonia and Andalusia. It has a rich history of art, literature, and architecture, with contributions from figures like Pablo Picasso and Miguel de Cervantes. The Spanish economy is driven by tourism, agriculture, and manufacturing."
+    },
+    {
+      "id": "SWE",
+      "name": "Sweden",
+      "description": "Sweden is known for its high standard of living, advanced social welfare system, and contributions to design and innovation. It has a strong economy based on exports of machinery, vehicles, and pharmaceuticals. Sweden is also known for its environmental consciousness and leadership in sustainability."
+    },
+    {
+      "id": "KEN",
+      "name": "Kenya",
+      "description": "Kenya is known for its wildlife safaris, national parks, and as the cradle of humanity, with significant archaeological finds in the Great Rift Valley. The economy is based on agriculture, tourism, and services. Kenya is also known for its long-distance runners who dominate international competitions."
+    },
+    {
+      "id": "NOR",
+      "name": "Norway",
+      "description": "Norway is known for its oil wealth, which has been managed through the Government Pension Fund Global, making it one of the wealthiest countries per capita. It is also famous for its fjords and outdoor lifestyle. Norway consistently ranks high in quality of life and environmental sustainability."
+    },
+    {
+      "id": "IRL",
+      "name": "Ireland",
+      "description": "Ireland is known for its rich literary history, with figures like James Joyce and W.B. Yeats. The country has a strong technology sector, attracting many multinational companies due to favorable tax policies. Ireland is also known for its green landscapes and cultural festivals like St. Patrick’s Day."
+    },
+    {
+      "id": "BRA",
+      "name": "Brazil",
+      "description": "Brazil is the largest country in South America and known for its biodiversity, including the Amazon Rainforest. The country is famous for its music, dance (such as samba and bossa nova), and football culture. Brazil has a mixed economy with significant agriculture, mining, and industrial sectors."
+    },
+    {
+      "id": "IRI",
+      "name": "Iran",
+      "description": "Iran is known for its rich cultural heritage, with ancient sites like Persepolis and a long history of Persian art, literature, and architecture. The country has significant natural resources, including oil and natural gas, and is a regional power in the Middle East."
+    },
+    {
+      "id": "UKR",
+      "name": "Ukraine",
+      "description": "Ukraine is known for its fertile plains, being one of the world’s largest grain exporters. The country has a rich cultural tradition, particularly in folk music and dance. Ukraine has been in the international spotlight due to its geopolitical tensions with Russia."
+    },
+    {
+      "id": "ROU",
+      "name": "Romania",
+      "description": "Romania is known for its natural beauty, including the Carpathian Mountains and the Black Sea coast. The country has a rich cultural history, with influences from the Romans, Ottomans, and Austro-Hungarians. Romania is also famous for its folklore, including the legend of Dracula."
+    },
+    {
+      "id": "GEO",
+      "name": "Georgia",
+      "description": "Georgia is known for its wine-making tradition, considered one of the oldest in the world. The country has a diverse landscape, from the Black Sea coast to the Caucasus Mountains. Georgia is also known for its unique language and script, as well as its rich cultural heritage."
+    },
+    {
+      "id": "BEL",
+      "name": "Belgium",
+      "description": "Belgium is known for its chocolate, beer, and as a hub for international organizations, including the European Union and NATO. The country has a complex political structure with multiple languages (Dutch, French, and German) and regions. Belgium is also known for its medieval towns and Renaissance architecture."
+    },
+    {
+      "id": "BUL",
+      "name": "Bulgaria",
+      "description": "Bulgaria is known for its diverse landscapes, including mountains, plains, and a Black Sea coastline. The country has a rich history with influences from the Thracians, Romans, and Ottomans. Bulgaria is also known for its traditional music, dance, and rose oil production."
+    },
+    {
+      "id": "SRB",
+      "name": "Serbia",
+      "description": "Serbia is known for its history, particularly in the context of the former Yugoslavia. The country has a rich cultural heritage with influences from the Byzantine and Ottoman Empires. Serbia is also known for its lively music and festivals, as well as its hospitality."
+    },
+    {
+      "id": "CZE",
+      "name": "Czech Republic",
+      "description": "The Czech Republic is known for its medieval architecture, particularly in the capital city, Prague. The country has a rich cultural history, with contributions to music, literature, and the arts. The Czech economy is driven by manufacturing, particularly in the automotive industry."
+    },
+    {
+      "id": "DEN",
+      "name": "Denmark",
+      "description": "Denmark is known for its high standard of living, progressive social policies, and as the birthplace of LEGO. The country has a strong economy based on exports, including pharmaceuticals, machinery, and agricultural products. Denmark is also famous for its design, architecture, and cycling culture."
+    },
+    {
+      "id": "AZE",
+      "name": "Azerbaijan",
+      "description": "Azerbaijan is known for its rich natural resources, particularly oil and natural gas. The country has a diverse culture with influences from Persia, Russia, and Turkey. Azerbaijan is also known for its ancient history, including sites like Gobustan and its unique Mugham music."
+    },
+    {
+      "id": "CRO",
+      "name": "Croatia",
+      "description": "Croatia is known for its stunning Adriatic coastline, with over a thousand islands and historic towns like Dubrovnik. The country has a rich cultural heritage with influences from the Romans, Venetians, and Austro-Hungarians. Croatia’s economy is driven by tourism, agriculture, and shipbuilding."
+    },
+    {
+      "id": "CUB",
+      "name": "Cuba",
+      "description": "Cuba is known for its vibrant culture, particularly in music and dance, including salsa and mambo. The country has a socialist economy with significant state control. Cuba is also known for its historic architecture, particularly in Havana, and its healthcare and education systems."
+    },
+    {
+      "id": "BRN",
+      "name": "Bahrain",
+      "description": "Bahrain is a small island nation in the Persian Gulf, known for its financial sector and oil reserves. The country has a high standard of living and a diverse economy that includes banking, tourism, and natural gas. Bahrain is also known for its Formula 1 Grand Prix and as a cultural hub in the Gulf region."
+    },
+    {
+      "id": "SLO",
+      "name": "Slovenia",
+      "description": "Slovenia is known for its mountains, lakes, and historic towns. The country has a strong tradition of environmental protection and sustainable tourism. Slovenia is also known for its wine production and as a gateway between Central Europe and the Balkans."
+    },
+    {
+      "id": "TPE",
+      "name": "Chinese Taipei/Taiwan",
+      "description": "Taiwan, officially the Republic of China (ROC), is known for its high-tech industry, particularly in semiconductors. The country has a dynamic economy and a rich cultural heritage with influences from China, Japan, and indigenous cultures. Taiwan is also known for its night markets and vibrant democracy."
+    },
+    {
+      "id": "AUT",
+      "name": "Austria",
+      "description": "Austria is known for its musical heritage, particularly with composers like Mozart, Beethoven, and Strauss. The country has a rich cultural history, with well-preserved architecture from the Habsburg era. Austria is also known for its alpine skiing and as a popular tourist destination."
+    },
+    {
+      "id": "PHI",
+      "name": "Philippines",
+      "description": "The Philippines is an archipelago with over 7,000 islands, known for its rich biodiversity and cultural diversity. The country has a mixed economy with strong agricultural, industrial, and service sectors. The Philippines is also known for its vibrant festivals, hospitality, and resilient population."
+    },
+    {
+      "id": "HKG",
+      "name": "Hong Kong",
+      "description": "Hong Kong is a major financial center known for its skyscrapers, deep natural harbor, and as a global hub for trade and finance. The city has a unique blend of Eastern and Western cultures, with a high degree of autonomy under the 'one country, two systems' framework."
+    },
+    {
+      "id": "ALG",
+      "name": "Algeria",
+      "description": "Algeria is the largest country in Africa and is rich in natural resources, particularly oil and natural gas. The country has a diverse landscape, from the Mediterranean coast to the Sahara Desert. Algeria has a rich history with influences from Berber, Arab, and French cultures."
+    },
+    {
+      "id": "INA",
+      "name": "Indonesia",
+      "description": "Indonesia is the world’s largest archipelago and has the largest Muslim population. The country is known for its cultural diversity, with hundreds of ethnic groups and languages. Indonesia’s economy is diverse, with significant contributions from agriculture, mining, and manufacturing."
+    },
+    {
+      "id": "ISR",
+      "name": "Israel",
+      "description": "Israel is known for its high-tech industry, advanced agriculture, and as the center of major world religions, including Judaism, Christianity, and Islam. The country has a strong economy and is a major player in technology, innovation, and military industries."
+    },
+    {
+      "id": "POL",
+      "name": "Poland",
+      "description": "Poland has a rich history and cultural heritage, with influences from both Western and Eastern Europe. The country has a strong economy with key sectors including manufacturing, agriculture, and services. Poland is also known for its resilient population and contributions to European history."
+    },
+    {
+      "id": "KAZ",
+      "name": "Kazakhstan",
+      "description": "Kazakhstan is the largest landlocked country in the world, known for its vast steppes and rich natural resources, particularly oil and minerals. The country has a diverse culture with influences from Russia, China, and the Turkic world. Kazakhstan is also known for its space launch site, Baikonur Cosmodrome."
+    },
+    {
+      "id": "RSA",
+      "name": "South Africa",
+      "description": "South Africa is known for its diverse cultures, wildlife, and as the birthplace of Nobel Peace Prize laureates Nelson Mandela and Desmond Tutu. The country has a mixed economy with key industries including mining, manufacturing, and services. South Africa is also famous for its natural beauty, including Table Mountain and Kruger National Park."
+    },
+    {
+      "id": "JAM",
+      "name": "Jamaica",
+      "description": "Jamaica is known for its rich cultural heritage, particularly in music, with reggae and dancehall being global influences. The country has a strong tourism industry, driven by its beautiful beaches and vibrant culture. Jamaica is also known for its contributions to athletics, particularly in sprinting."
+    },
+    {
+      "id": "THA",
+      "name": "Thailand",
+      "description": "Thailand is known for its rich culture, including Buddhist temples, traditional dance, and cuisine. The country has a strong economy driven by tourism, agriculture, and manufacturing. Thailand is also famous for its tropical beaches, vibrant cities, and as a popular tourist destination."
+    },
+    {
+      "id": "ETH",
+      "name": "Ethiopia",
+      "description": "Ethiopia is one of the oldest nations in the world, with a rich history dating back to ancient civilizations. The country is known for its diverse cultures, ancient churches, and as the origin of coffee. Ethiopia has a growing economy, with agriculture being a key sector."
+    },
+    {
+      "id": "SUI",
+      "name": "Switzerland",
+      "description": "Switzerland is known for its neutrality, banking sector, and as a global hub for diplomacy and international organizations. The country has a high standard of living, with a strong economy based on finance, pharmaceuticals, and high-tech industries. Switzerland is also famous for its chocolate, watches, and the Alps."
+    },
+    {
+      "id": "ECU",
+      "name": "Ecuador",
+      "description": "Ecuador is known for its diverse ecosystems, including the Amazon rainforest, Andes mountains, and the Galápagos Islands. The country has a mixed economy with key sectors including oil, agriculture, and tourism. Ecuador is also known for its rich indigenous culture and biodiversity."
+    },
+    {
+      "id": "POR",
+      "name": "Portugal",
+      "description": "Portugal is known for its maritime history, being one of the leading nations during the Age of Exploration. The country has a rich cultural heritage, with influences from its colonial past. Portugal is also known for its wine, particularly Port and Madeira, as well as its beautiful landscapes and historic cities."
+    }
+  ]
+}
