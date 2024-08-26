@@ -15,36 +15,7 @@
       "name": "Japan",
       "description": "Japan is an island nation in East Asia known for its blend of traditional and modern culture. It is a global leader in technology, particularly in robotics and electronics. Japan is also famous for its cuisine, such as sushi and ramen, and its unique cultural practices, like tea ceremonies and sumo wrestling."
     },
-    {
-      "id": "AUS",
-      "name": "Australia",
-      "description": "Known for its diverse ecosystems, from the Great Barrier Reef to the Outback, Australia is also a major exporter of minerals and agricultural products. The country has a strong economy, with key sectors including mining, finance, and tourism."
-    },
-    {
-      "id": "FRA",
-      "name": "France",
-      "description": "France is a key player in the European Union and a permanent member of the United Nations Security Council. It is known for its luxury goods, fashion industry, and as the world’s most visited country due to its landmarks like the Eiffel Tower and the Louvre Museum."
-    },
-    {
-      "id": "NED",
-      "name": "Netherlands",
-      "description": "The Netherlands is a highly developed country known for its liberal policies, innovative water management, and as a major hub for international trade. The Dutch economy is driven by high-tech industries, agriculture, and services."
-    },
-    {
-      "id": "GBR",
-      "name": "United Kingdom",
-      "description": "The UK has a constitutional monarchy and a parliamentary democracy. It played a significant role in world history as the center of the British Empire. The UK is a global financial center, with London being one of the leading cities for finance and culture."
-    },
-    {
-      "id": "KOR",
-      "name": "South Korea",
-      "description": "South Korea is known for its rapid economic development, often referred to as the 'Miracle on the Han River.' It is a global leader in electronics, automotive, and entertainment industries, particularly known for the global popularity of K-pop and Korean dramas."
-    },
-    {
-      "id": "ITA",
-      "name": "Italy",
-      "description": "Italy has a rich cultural heritage, being the birthplace of the Renaissance. It is renowned for its contributions to art, architecture, and cuisine. Italy’s economy is driven by tourism, fashion, and the automotive industry, with brands like Ferrari and Gucci."
-    }
+
 
   ]
 }
